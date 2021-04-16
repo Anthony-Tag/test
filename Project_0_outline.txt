@@ -1,0 +1,10 @@
+Customer 
+First level - User name- password or new customer 
+second level - new bank account - view balance 
+view balance third level - withdrawal money -deposit money - transfer money - accept money - post money 
+
+Employee one employee
+First level - User name -password
+Second level - pending accounts - customer's account - view account
+customer account third level - account details
+view account third level - enter account number - enter customer ID
